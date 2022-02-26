@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# TEAM 162
 
-You can use the [editor on GitHub](https://github.com/C2TEAM165/TEAMS-162/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# WELCOME TO OUR WEBSITE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# ACTION WORLD
+=============
+# C2-TEAM-162
 
-### Markdown
+|    TEAM               |MEMBERS |
+| -------------         | -------|
+|  THIRUMALAI P         |20BAE045|
+|  SAI VISHNU S S       |20BME244|
+|  SANJAY KRISHNAN S M  |20BMC210|
+|  UMA A R              |20BBT047|
+|  ARUN M               |20BEC204|
+|  THANVEER AHAMAD N    |20BAU036|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# TEAM 175
 
-[Link](url) and ![Image](src)
-```
+Go to [the team 162 website](https://youtu.be/FPxheU-E0T)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/C2TEAM165/TEAMS-162/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# ACTION LIFE
+
+![th](https://user-images.githubusercontent.com/100404698/155829503-188ac684-bfca-4120-9f6f-400aecbb63a5.jpg)
+
+
+
+# MARVEL VS DC
+Go to [the team 162 website](https://youtu.be/-jtCTE3OVkM)
+
+
+# MARVEL
+![th](https://user-images.githubusercontent.com/100404698/155829392-595e968c-1448-4d86-a3bb-790796252772.jpg)
+
+
+# DC
+![th](https://user-images.githubusercontent.com/100404698/155829423-26606aca-fa98-4186-a33c-8e912954be67.jpg)
+
+
+
+# Contribute to TEAM 162
+
+If you wish to actually inspect TEAM 175, submit PRs or otherwise work
+ with Forge itself, you're in the right place!
+ 
+
+
+
+### Contributor License Agreement
+We require all contributors to acknowledge . Please ensure you have a valid email address
+ associated with your GitHub account to do this. If you have previously
+ signed it, you should be OK.
+
+
