@@ -49,7 +49,7 @@ Go to [the team 162 website](https://youtu.be/-jtCTE3OVkM)
 
 # Contribute to TEAM 162
 
-If you wish to actually inspect TEAM 175, submit PRs or otherwise work
+If you wish to actually inspect TEAM 162, submit PRs or otherwise work
  with Forge itself, you're in the right place!
  
 
